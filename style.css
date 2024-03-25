@@ -1,0 +1,56 @@
+h1 {
+    color: rgb(45, 246, 14);
+}
+
+body {
+    background-color: pink;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    background-color: black;
+}
+
+.hurufGede {
+    font-size: 50px;
+    font-style: italic;
+}
+
+/* #footer_merah_1 {
+    color: red;
+} */
+
+/* untuk menandai hero meta */
+
+#meta_sekarang {
+    color: #9aff9a;
+    font-style: italic;
+}
+
+.kotak {
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border: 10px solid blue;
+    margin: 20px;
+}
+
+.block-contoh {
+    display: block;
+    background-color: tomato;
+}
+
+.inline-contoh {
+    display: inline;
+    background-color: green;
+    color: white;
+}
+
+.inline-contoh-2 {
+    display: inline;
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+}
